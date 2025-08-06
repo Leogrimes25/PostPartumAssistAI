@@ -24,4 +24,5 @@
 <h2>Justificativa do Trabalho: Diagnóstico da Depressão Pós-Parto com Machine Learning</h2>
 <p>Este projeto propõe uma abordagem inovadora e complementar, utilizando algoritmos de Machine Learning para apoiar a equipe de saúde no diagnóstico. É importante frisar que esta ferramente é deve ser encarada como instrumento de apoio no diagnóstico e não devendo ser utilizada como ferramenta decisória autônoma. </p>
 <h2>COMPARATIVO DOS MODELOS</h2>
+<img width="1184" height="784" alt="Image" src="https://github.com/user-attachments/assets/4ef806b5-ae7d-4d4f-b5da-f2d710097ed4" />
 
