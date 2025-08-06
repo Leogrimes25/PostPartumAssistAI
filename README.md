@@ -17,4 +17,7 @@
 </ul>
 <h2>Variável Alvo (<code>Feeling Anxious</code>)</h2>
 <p>A variável alvo, denominada "feeling anxious", é a variável definida como preditora da depressão pós-parto</p>
-<ul>
+<h2>Justificativa do Trabalho: Diagnóstico da Depressão Pós-Parto com Machine Learning</h2>
+<p>Este projeto propõe uma abordagem inovadora e complementar, utilizando algoritmos de Machine Learning para apoiar a equipe de saúde no diagnóstico. É importante frisar que esta ferramente é deve ser encarada como instrumento de apoio no diagnóstico e não devendo ser utilizada como ferramenta decisória autônoma. </p>
+<h2>COMPARATIVO DOS MODELOS</h2>
+
