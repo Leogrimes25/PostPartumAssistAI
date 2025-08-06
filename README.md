@@ -25,4 +25,10 @@
 <p>Este projeto propõe uma abordagem inovadora e complementar, utilizando algoritmos de Machine Learning para apoiar a equipe de saúde no diagnóstico. É importante frisar que esta ferramente é deve ser encarada como instrumento de apoio no diagnóstico e não devendo ser utilizada como ferramenta decisória autônoma. </p>
 <h2>COMPARATIVO DOS MODELOS</h2>
 <img width="1184" height="784" alt="Image" src="https://github.com/user-attachments/assets/4ef806b5-ae7d-4d4f-b5da-f2d710097ed4" />
+<h2>Testando a API com Postman</h2>
+<p>A imagem abaixo demonstra o uso do Postman para interagir com o endpoint de previsão da nossa API.</p>
+<img width="1442" height="732" alt="Image" src="https://github.com/user-attachments/assets/760f5e07-e467-4fe7-a507-8a6287e863a8" />
+<h2>Persistência dos dados no MongoDb</h2>
+<p>Após a requisição à API, os dados do paciente e o resultado da previsão são persistidos em nosso banco de dados MongoDB. A imagem abaixo mostra o MongoDB Compass, uma ferramenta gráfica para interagir com o MongoDB, exibindo o registro recém-criado</p>
+<img width="1920" height="587" alt="Image" src="https://github.com/user-attachments/assets/85baa433-ac19-418e-8db7-1ebb0a87d71a" />
 
