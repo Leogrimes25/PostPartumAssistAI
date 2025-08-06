@@ -15,3 +15,6 @@
     <li><strong><code>Feeling of guilt</code></strong>: Sentimento de culpa.</li>
     <li><strong><code>Problems of bonding with baby</code></strong>: Problemas de criação de laços com o bebê.</li>
 </ul>
+<h2>Variável Alvo (<code>Feeling Anxious</code>)</h2>
+<p>A variável alvo, denominada "feeling anxious", é a variável definida como preditora da depressão pós-parto</p>
+<ul>
